@@ -1,4 +1,12 @@
-### Hi there 👋
+### Prof. Ricardo de Andrade Kratz 👋
+
+Currículo disponível em [http://lattes.cnpq.br/2053218039321737](http://lattes.cnpq.br/2053218039321737). 
+Ricardo de Andrade Kratz possui graduação em Ciência da Computação pela Pontifícia Universidade Católica de Goiás (2000) e mestrado pela Universidade do Vale do Rio dos Sinos (2006). Atualmente é professor universitário do Instituto de Pós-Graduação e Graduação (IPOG), Faculdade Unidas de Campinas (FacUnicamps) e na Pós-Graduação Universidade Federal de Goiás (UFG) entre outras instituições. Atua como assessor da Assembleia Legislativa de Goiás (ALEGO). Foi Ex-Gerente de Tecnologia da Informação da Secretaria de Ciência e Tecnologia do Estado de Goiás. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software e Rede de Computadores, atuando principalmente nos seguintes temas: Engenharia de Software, Design Patterns, Sistema de Informação, Automação, Governança em TI, Tecnologia da Informação e Redes de Computadores.
+
+- 🔭 Eu estou trabalhando no IPOG, ALEGO e FacUnicamps
+- 🌱 Estou estudando disciplinas de Análise e Desenvolvimento de Sistemas
+- 💬 Pergute-me sobre Python, Java, PHP, Estrutura de Dados, Redes de Computadores, Segurança de Dados, etc. ...
+- 📫 Contato: [rakratz@gmaill.com](mailto:rakratz@gmaill.com). 
 
 <!--
 **rakratz/rakratz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
