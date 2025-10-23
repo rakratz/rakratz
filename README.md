@@ -6,7 +6,7 @@ Ricardo de Andrade Kratz possui graduação em Ciência da Computação pela Pon
 - 🔭 Eu estou trabalhando no IPOG, PUC-Goiás e FacUnicamps
 - 🌱 Estou estudando disciplinas de Análise e Desenvolvimento de Sistemas
 - 💬 Pergute-me sobre Python, Java, PHP, Estrutura de Dados, Redes de Computadores, Segurança de Dados, etc. ...
-- 📫 Contato: [rakratz@gmaill.com](mailto:rakratz@gmaill.com). 
+- 📫 Contato: [rakratz@gmail.com](mailto:rakratz@gmail.com). 
 
 <!--
 **rakratz/rakratz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
